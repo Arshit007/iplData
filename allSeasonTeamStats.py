@@ -18,12 +18,8 @@ class TeamStats:
     def chooseTeams(self):
         driver = utils.getBrowser(self.baseUrl)
         select = driver.find_elements_by_xpath("//*[contains(text(), 'All Teams')]")        
-    
-        for e in select:
-            e.click()
-
         return select
 
 
-# print(TeamStats("/stats/2008/most-runs").getAllTeams())
-print(TeamStats("/stats/2008/most-runs").chooseTeams())
+print(TeamStats("/stats/2008/most-runs").getAllTeams())
+# print(TeamStats("/stats/2008/most-runs").chooseTeams())
