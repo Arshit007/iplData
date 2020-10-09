@@ -49,20 +49,26 @@ def getHtmlFromLib(url):
     response = urllib2.urlopen(url) 
     return BeautifulSoup(response.read(),'html.parser')
 
-def getHtmlfromSelenium(url):
-        options = Options()
-        options.add_argument("--headless") # Runs Chrome in headless mode.
-        options.add_argument('--no-sandbox') # Bypass OS security model
-        options.add_argument('--disable-gpu')  # applicable to windows os only
-        options.add_argument('start-maximized') # 
-        options.add_argument('disable-infobars')
-        options.add_argument("--disable-extensions")
-        browser = webdriver.Chrome(chrome_options=options,executable_path="driver/chromedriver.exe")
-        browser.get(url)
-        browser.maximize_window()
-        browser.set_window_size(1440, 900)
-        no_of_pagedowns =30
+def getBrowser(url):
+    options = Options()
+    # options.add_argument("--headless") # Runs Chrome in headless mode.
+    options.add_argument('--no-sandbox') # Bypass OS security model
+    options.add_argument('--disable-gpu')  # applicable to windows os only
+    options.add_argument('start-maximized') # 
+    options.add_argument('disable-infobars')
+    options.add_argument("--disable-extensions")
+    browser = webdriver.Chrome(chrome_options=options,executable_path="driver/chromedriver.exe")
+    browser.get(url)
+    browser.maximize_window()
+    browser.set_window_size(1440, 900)
+    return browser
+
+
+
+def getHtmlfromBody(url):
+        browser = getBrowser(url)
         elem = browser.find_element_by_tag_name("body")
+        no_of_pagedowns =30
         while no_of_pagedowns:
             elem.send_keys(Keys.PAGE_DOWN)
             no_of_pagedowns-=1
