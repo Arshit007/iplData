@@ -4,7 +4,7 @@ import openpyxl
 class IPL:
     def __init__(self):
         pass
-    def getAllStats(self):
+    def getAllSeasonStats(self):
         for i in range(8,21):
             items = []
             value = "{0:0=2d}".format(i)
@@ -12,10 +12,23 @@ class IPL:
             items.append(f"/stats/20{value}/most-runs")
             for data in items:
                 fileName = f"ipl20{value}allstats.xlsx"
-                print(data,i)
                 iplAllStats.AllSeasonStats(data).prepareData(fileName,data,f"/stats/20{value}/")
-            workbook=openpyxl.load_workbook(fileName)
-            workbook.remove_sheet(workbook.get_sheet_by_name('sheet1'))
-            workbook.save(fileName)
-            
-IPL().getAllStats()
+            self.deleteSheet('sheet1',fileName)
+
+
+    def getAllTimeStats(self):
+        links = []
+        links = (iplAllStats.AllSeasonStats(f"/stats/all-time/most-runs").links)         
+        links.append(f"/stats/all-time/most-runs")
+        fileName = f"iplallTimeStats.xlsx"        
+        for data in links:
+            iplAllStats.AllSeasonStats(data).prepareData(fileName,data,f"/stats/all-time/")
+        self.deleteSheet('sheet1',fileName)
+        return links
+    
+    def deleteSheet(self,sheetName,fileName):
+        workbook=openpyxl.load_workbook(fileName)
+        workbook.remove_sheet(workbook.get_sheet_by_name(sheetName))
+        workbook.save(fileName)
+
+print(IPL().getAllTimeStats())

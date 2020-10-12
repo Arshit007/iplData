@@ -6,6 +6,10 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.support.ui import Select
 
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+
 class TeamStats:
 
     def __init__(self,url):
@@ -17,9 +21,10 @@ class TeamStats:
     
     def chooseTeams(self):
         driver = utils.getBrowser(self.baseUrl)
-        select = driver.find_elements_by_xpath("//*[contains(text(), 'All Teams')]")        
-        return select
+        link = driver.find_element_by_link_text('TEAMS')
+        link.click()
+        return link
 
 
-print(TeamStats("/stats/2008/most-runs").getAllTeams())
-# print(TeamStats("/stats/2008/most-runs").chooseTeams())
+# print(TeamStats("/stats/2008/most-runs").getAllTeams())
+print(TeamStats("/stats/2008/most-runs").chooseTeams())

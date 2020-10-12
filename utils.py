@@ -58,9 +58,10 @@ def getBrowser(url):
     options.add_argument('disable-infobars')
     options.add_argument("--disable-extensions")
     browser = webdriver.Chrome(chrome_options=options,executable_path="driver/chromedriver.exe")
-    browser.get(url)
     browser.maximize_window()
-    browser.set_window_size(1440, 900)
+    browser.get(url)
+    # browser.set_window_size(1440, 900)
+    browser.implicitly_wait(20)
     return browser
 
 
