@@ -1,0 +1,88 @@
+{
+    "matchInfo": {
+        "additionalInfo": {
+            "toss.elected": "No toss",
+            "match.summary": "Match abandoned without a ball bowled"
+        },
+        "teams": [
+            {
+                "id": 125,
+                "team": {
+                    "id": 9,
+                    "fullName": "Royal Challengers Bangalore",
+                    "shortName": "Challengers",
+                    "abbreviation": "RCB",
+                    "type": "m",
+                    "primaryColor": "000000",
+                    "secondaryColor": "FF3245"
+                },
+                "players": []
+            },
+            {
+                "id": 126,
+                "team": {
+                    "id": 8,
+                    "fullName": "Rajasthan Royals",
+                    "shortName": "Royals",
+                    "abbreviation": "RR",
+                    "type": "m",
+                    "primaryColor": "004B8C",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": []
+            }
+        ],
+        "venue": {
+            "id": 5,
+            "fullName": "M. Chinnaswamy Stadium",
+            "shortName": "M. Chinnaswamy Stadium",
+            "city": "Bengaluru",
+            "country": "India"
+        },
+        "matchDate": "2011-04-19T20:00:00+0530",
+        "matchEndDate": "2011-04-19T23:00:00+0530",
+        "matchDateMs": 1303223400000,
+        "matchEndDateMs": 1303234200000,
+        "isLimitedOvers": true,
+        "battingOrder": [
+            0,
+            1
+        ],
+        "matchBroadcast": false,
+        "matchState": "C",
+        "matchStatus": {
+            "outcome": "N",
+            "text": "Match abandoned without a ball bowled"
+        },
+        "description": "Match 20",
+        "matchSummary": "Match abandoned without a ball bowled",
+        "matchType": "IPLT20",
+        "tournamentLabel": "IPL 2011",
+        "oversLimit": 20,
+        "groupName": ""
+    },
+    "matchId": {
+        "id": 101,
+        "name": "ipl2011-20",
+        "tournamentId": {
+            "id": 81,
+            "name": "ipl2011",
+            "provisional": false
+        }
+    },
+    "currentState": {
+        "inProgress": false,
+        "phase": "C",
+        "currentInningsIndex": 0,
+        "currentBatsmen": [
+            -1,
+            -1
+        ],
+        "facingBatsman": -1,
+        "nonFacingBatsman": -1,
+        "currentBowler": -1,
+        "previousBowler": -1,
+        "currentPartnership": 0
+    },
+    "innings": []
+}

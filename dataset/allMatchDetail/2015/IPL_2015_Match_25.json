@@ -1,0 +1,92 @@
+{
+    "matchInfo": {
+        "additionalInfo": {
+            "referee.name": "Ranjan Madugalle",
+            "report.thumb": "http://static2.iplt20.com/cms/media/images/650x433/38461.jpg",
+            "home.team.fan.total": "4585",
+            "match.summary": "Match abandoned without a ball bowled",
+            "umpire.name.1": "Richard Illingworth",
+            "photostream.link": "http://www.iplt20.com/photos/273/ipl-2015-match-25-kkr-v-rr",
+            "umpire.name.2": "Rajesh Deshpande",
+            "umpire.name.3": "Vineet Kulkarni",
+            "umpire.name.4": "Krishnamachari Bharatan",
+            "away.team.fan.total": "3515"
+        },
+        "teams": [
+            {
+                "id": 0,
+                "team": {
+                    "id": 5,
+                    "fullName": "Kolkata Knight Riders",
+                    "shortName": "Knight Riders",
+                    "abbreviation": "KKR",
+                    "type": "m",
+                    "primaryColor": "6F2C91",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": []
+            },
+            {
+                "id": 0,
+                "team": {
+                    "id": 8,
+                    "fullName": "Rajasthan Royals",
+                    "shortName": "Royals",
+                    "abbreviation": "RR",
+                    "type": "m",
+                    "primaryColor": "004B8C",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": []
+            }
+        ],
+        "venue": {
+            "id": 2,
+            "fullName": "Eden Gardens",
+            "shortName": "Eden Gardens",
+            "city": "Kolkata",
+            "country": "India"
+        },
+        "matchDate": "2015-04-26T16:00:00+0530",
+        "matchEndDate": "2015-04-26T23:00:00+0530",
+        "matchDateMs": 1430044200000,
+        "matchEndDateMs": 1430069400000,
+        "isLimitedOvers": true,
+        "matchBroadcast": false,
+        "matchState": "C",
+        "matchStatus": {
+            "outcome": "N",
+            "text": "Match abandoned without a ball bowled"
+        },
+        "description": "Match 25",
+        "matchSummary": "Match abandoned without a ball bowled",
+        "matchType": "IPLT20",
+        "tournamentLabel": "IPL 2015",
+        "oversLimit": 20,
+        "groupName": ""
+    },
+    "matchId": {
+        "id": 3250,
+        "name": "ipl2015-25",
+        "tournamentId": {
+            "id": 2785,
+            "name": "ipl2015",
+            "provisional": false
+        }
+    },
+    "currentState": {
+        "inProgress": false,
+        "phase": "C",
+        "currentInningsIndex": 0,
+        "currentBatsmen": [
+            -1,
+            -1
+        ],
+        "facingBatsman": -1,
+        "nonFacingBatsman": -1,
+        "currentBowler": -1,
+        "previousBowler": -1,
+        "currentPartnership": 0
+    },
+    "innings": []
+}

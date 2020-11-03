@@ -1,0 +1,92 @@
+{
+    "matchInfo": {
+        "additionalInfo": {
+            "referee.name": "Col Chinmaya Sharma",
+            "report.link": "http://www.iplt20.com/news/97957/washout-forces-rcb-srh-to-split-points",
+            "report.thumb": "https://iplplatform-static-files.s3.amazonaws.com/IPL/photo/2017/04/25/0b6be2c2-e3f5-4f9c-8e0d-e338bceedf62/Match-Report-RCB-vs-SRH.jpg",
+            "home.team.fan.total": "2429",
+            "match.summary": "Match abandoned without a ball bowled",
+            "umpire.name.1": "Marais Erasmus",
+            "umpire.name.2": "C Shamshuddin",
+            "umpire.name.3": "Anil Chaudhary",
+            "umpire.name.4": "Rohan Pandit",
+            "away.team.fan.total": "961"
+        },
+        "teams": [
+            {
+                "id": 0,
+                "team": {
+                    "id": 9,
+                    "fullName": "Royal Challengers Bangalore",
+                    "shortName": "Challengers",
+                    "abbreviation": "RCB",
+                    "type": "m",
+                    "primaryColor": "000000",
+                    "secondaryColor": "FF3245"
+                },
+                "players": []
+            },
+            {
+                "id": 0,
+                "team": {
+                    "id": 62,
+                    "fullName": "Sunrisers Hyderabad",
+                    "shortName": "Sunrisers",
+                    "abbreviation": "SRH",
+                    "type": "m",
+                    "primaryColor": "FF9C00",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": []
+            }
+        ],
+        "venue": {
+            "id": 5,
+            "fullName": "M. Chinnaswamy Stadium",
+            "shortName": "M. Chinnaswamy Stadium",
+            "city": "Bengaluru",
+            "country": "India"
+        },
+        "matchDate": "2017-04-25T20:00:00+0530",
+        "matchEndDate": "2017-04-25T23:00:00+0530",
+        "matchDateMs": 1493130600000,
+        "matchEndDateMs": 1493141400000,
+        "isLimitedOvers": true,
+        "matchBroadcast": false,
+        "matchState": "C",
+        "matchStatus": {
+            "outcome": "N",
+            "text": "Match abandoned without a ball bowled"
+        },
+        "description": "Match 29",
+        "matchSummary": "Match abandoned without a ball bowled",
+        "matchType": "IPLT20",
+        "tournamentLabel": "IPL 2017",
+        "oversLimit": 20,
+        "groupName": ""
+    },
+    "matchId": {
+        "id": 5867,
+        "name": "ipl2017-29",
+        "tournamentId": {
+            "id": 5815,
+            "name": "ipl2017",
+            "provisional": false
+        }
+    },
+    "currentState": {
+        "inProgress": false,
+        "phase": "C",
+        "currentInningsIndex": 0,
+        "currentBatsmen": [
+            -1,
+            -1
+        ],
+        "facingBatsman": -1,
+        "nonFacingBatsman": -1,
+        "currentBowler": -1,
+        "previousBowler": -1,
+        "currentPartnership": 0
+    },
+    "innings": []
+}

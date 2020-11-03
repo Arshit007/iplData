@@ -15,5 +15,4 @@ class AllSeasonStats:
     def getAllLinks(self):
         return [links.get('href') for links in self.soup.findAll('a',{'class': 'side-menu-child-list__item side-menu__link'})]
     
-        
 

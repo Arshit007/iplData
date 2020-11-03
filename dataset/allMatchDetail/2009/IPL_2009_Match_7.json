@@ -1,0 +1,88 @@
+{
+    "matchInfo": {
+        "additionalInfo": {
+            "toss.elected": "No toss",
+            "match.summary": "Match abandoned without a ball bowled"
+        },
+        "teams": [
+            {
+                "id": 525,
+                "team": {
+                    "id": 6,
+                    "fullName": "Mumbai Indians",
+                    "shortName": "Mumbai",
+                    "abbreviation": "MI",
+                    "type": "m",
+                    "primaryColor": "00AEEF",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": []
+            },
+            {
+                "id": 526,
+                "team": {
+                    "id": 8,
+                    "fullName": "Rajasthan Royals",
+                    "shortName": "Royals",
+                    "abbreviation": "RR",
+                    "type": "m",
+                    "primaryColor": "004B8C",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": []
+            }
+        ],
+        "venue": {
+            "id": 23,
+            "fullName": "Kingsmead",
+            "shortName": "Kingsmead",
+            "city": "Durban",
+            "country": "South Africa"
+        },
+        "matchDate": "2009-04-21T20:00:00+0530",
+        "matchEndDate": "2009-04-21T23:00:00+0530",
+        "matchDateMs": 1240324200000,
+        "matchEndDateMs": 1240335000000,
+        "isLimitedOvers": true,
+        "battingOrder": [
+            0,
+            1
+        ],
+        "matchBroadcast": false,
+        "matchState": "C",
+        "matchStatus": {
+            "outcome": "N",
+            "text": "Match abandoned without a ball bowled"
+        },
+        "description": "Match 7",
+        "matchSummary": "Match abandoned without a ball bowled",
+        "matchType": "IPLT20",
+        "tournamentLabel": "IPL 2009",
+        "oversLimit": 20,
+        "groupName": ""
+    },
+    "matchId": {
+        "id": 222,
+        "name": "ipl2009-07",
+        "tournamentId": {
+            "id": 79,
+            "name": "ipl2009",
+            "provisional": false
+        }
+    },
+    "currentState": {
+        "inProgress": false,
+        "phase": "C",
+        "currentInningsIndex": 0,
+        "currentBatsmen": [
+            -1,
+            -1
+        ],
+        "facingBatsman": -1,
+        "nonFacingBatsman": -1,
+        "currentBowler": -1,
+        "previousBowler": -1,
+        "currentPartnership": 0
+    },
+    "innings": []
+}

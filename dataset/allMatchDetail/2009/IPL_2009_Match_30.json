@@ -1,0 +1,1555 @@
+{
+    "matchInfo": {
+        "additionalInfo": {
+            "toss.elected": "Kings XI Punjab, who chose to field"
+        },
+        "teams": [
+            {
+                "id": 571,
+                "team": {
+                    "id": 4,
+                    "fullName": "Kings XI Punjab",
+                    "shortName": "Kings XI",
+                    "abbreviation": "KXIP",
+                    "type": "m",
+                    "primaryColor": "DA1F3D",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": [
+                    {
+                        "id": 42,
+                        "fullName": "Sunny Sohal",
+                        "shortName": "S Sohal",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1987-11-10",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false
+                    },
+                    {
+                        "id": 27,
+                        "fullName": "Kumar Sangakkara",
+                        "shortName": "K Sangakkara",
+                        "nationality": "Sri Lankan",
+                        "dateOfBirth": "1977-10-27",
+                        "rightArmedBowl": true,
+                        "rightHandedBat": false,
+                        "bowlingStyle": "OFF_SPIN"
+                    },
+                    {
+                        "id": 322,
+                        "fullName": "Karan Goel",
+                        "shortName": "K Goel",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1986-12-24",
+                        "rightArmedBowl": true,
+                        "rightHandedBat": false,
+                        "bowlingStyle": "OFF_SPIN"
+                    },
+                    {
+                        "id": 326,
+                        "fullName": "Simon Katich",
+                        "shortName": "S Katich",
+                        "nationality": "Australian",
+                        "dateOfBirth": "1975-08-21",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false
+                    },
+                    {
+                        "id": 175,
+                        "fullName": "Mahela Jayawardene",
+                        "shortName": "M Jayawardene",
+                        "nationality": "Sri Lankan",
+                        "dateOfBirth": "1977-05-27",
+                        "rightArmedBowl": true,
+                        "rightHandedBat": true,
+                        "bowlingStyle": "MEDIUM_SEAM"
+                    },
+                    {
+                        "id": 113,
+                        "fullName": "Yuvraj Singh",
+                        "shortName": "Y Singh",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1981-12-12",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false,
+                        "bowlingStyle": "ORTHODOX"
+                    },
+                    {
+                        "id": 49,
+                        "fullName": "Irfan Pathan",
+                        "shortName": "I Pathan",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1984-10-27",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false,
+                        "bowlingStyle": "MEDIUM_SEAM"
+                    },
+                    {
+                        "id": 76,
+                        "fullName": "Piyush Chawla",
+                        "shortName": "P Chawla",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1988-12-24",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false
+                    },
+                    {
+                        "id": 83,
+                        "fullName": "Ramesh Powar",
+                        "shortName": "R Powar",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1978-05-20",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false
+                    },
+                    {
+                        "id": 150,
+                        "fullName": "Shanthakumaran Sreesanth",
+                        "shortName": "S Sreesanth",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1983-02-06",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false
+                    },
+                    {
+                        "id": 372,
+                        "fullName": "Yusuf Abdulla",
+                        "shortName": "Y Abdulla",
+                        "nationality": "South African",
+                        "dateOfBirth": "1983-01-17",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false,
+                        "bowlingStyle": "FAST_SEAM"
+                    }
+                ],
+                "wicketKeeper": {
+                    "id": 27,
+                    "fullName": "Kumar Sangakkara",
+                    "shortName": "K Sangakkara",
+                    "nationality": "Sri Lankan",
+                    "dateOfBirth": "1977-10-27",
+                    "rightArmedBowl": true,
+                    "rightHandedBat": false,
+                    "bowlingStyle": "OFF_SPIN"
+                },
+                "captain": {
+                    "id": 113,
+                    "fullName": "Yuvraj Singh",
+                    "shortName": "Y Singh",
+                    "nationality": "Indian",
+                    "dateOfBirth": "1981-12-12",
+                    "rightArmedBowl": false,
+                    "rightHandedBat": false,
+                    "bowlingStyle": "ORTHODOX"
+                }
+            },
+            {
+                "id": 572,
+                "team": {
+                    "id": 8,
+                    "fullName": "Rajasthan Royals",
+                    "shortName": "Royals",
+                    "abbreviation": "RR",
+                    "type": "m",
+                    "primaryColor": "004B8C",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": [
+                    {
+                        "id": 52,
+                        "fullName": "Naman Ojha",
+                        "shortName": "N Ojha",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1983-07-20",
+                        "rightArmedBowl": true,
+                        "rightHandedBat": true
+                    },
+                    {
+                        "id": 219,
+                        "fullName": "Graeme Smith",
+                        "shortName": "G Smith",
+                        "nationality": "South African",
+                        "dateOfBirth": "1981-02-01",
+                        "rightArmedBowl": true,
+                        "rightHandedBat": false,
+                        "bowlingStyle": "OFF_SPIN"
+                    },
+                    {
+                        "id": 96,
+                        "fullName": "Yusuf Pathan",
+                        "shortName": "Y Pathan",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1982-11-17",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": true
+                    },
+                    {
+                        "id": 9,
+                        "fullName": "Ravindra Jadeja",
+                        "shortName": "R Jadeja",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1988-12-06",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false,
+                        "bowlingStyle": "ORTHODOX"
+                    },
+                    {
+                        "id": 377,
+                        "fullName": "Lee Carseldine",
+                        "shortName": "L Carseldine",
+                        "nationality": "Australian",
+                        "dateOfBirth": "1975-11-17",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false,
+                        "bowlingStyle": "MEDIUM_SEAM"
+                    },
+                    {
+                        "id": 133,
+                        "fullName": "Abhishek Raut",
+                        "shortName": "A Raut",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1987-03-03",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false
+                    },
+                    {
+                        "id": 320,
+                        "fullName": "Niraj Patel",
+                        "shortName": "N Patel",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1981-03-26",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false
+                    },
+                    {
+                        "id": 292,
+                        "fullName": "Shane Warne",
+                        "shortName": "S Warne",
+                        "nationality": "Australian",
+                        "dateOfBirth": "1969-09-13",
+                        "rightArmedBowl": true,
+                        "rightHandedBat": true,
+                        "bowlingStyle": "LEG_SPIN"
+                    },
+                    {
+                        "id": 376,
+                        "fullName": "Shane Harwood",
+                        "shortName": "S Harwood",
+                        "nationality": "Australian",
+                        "dateOfBirth": "1974-03-01",
+                        "rightArmedBowl": true,
+                        "rightHandedBat": true,
+                        "bowlingStyle": "FAST_SEAM"
+                    },
+                    {
+                        "id": 147,
+                        "fullName": "Siddharth Trivedi",
+                        "shortName": "S Trivedi",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1982-09-04",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false
+                    },
+                    {
+                        "id": 137,
+                        "fullName": "Amit Singh",
+                        "shortName": "A Singh",
+                        "nationality": "Indian",
+                        "dateOfBirth": "1981-06-21",
+                        "rightArmedBowl": false,
+                        "rightHandedBat": false
+                    }
+                ],
+                "wicketKeeper": {
+                    "id": 52,
+                    "fullName": "Naman Ojha",
+                    "shortName": "N Ojha",
+                    "nationality": "Indian",
+                    "dateOfBirth": "1983-07-20",
+                    "rightArmedBowl": true,
+                    "rightHandedBat": true
+                },
+                "captain": {
+                    "id": 292,
+                    "fullName": "Shane Warne",
+                    "shortName": "S Warne",
+                    "nationality": "Australian",
+                    "dateOfBirth": "1969-09-13",
+                    "rightArmedBowl": true,
+                    "rightHandedBat": true,
+                    "bowlingStyle": "LEG_SPIN"
+                }
+            }
+        ],
+        "venue": {
+            "id": 23,
+            "fullName": "Kingsmead",
+            "shortName": "Kingsmead",
+            "city": "Durban",
+            "country": "South Africa"
+        },
+        "matchDate": "2009-05-05T16:00:00+0530",
+        "matchEndDate": "2009-05-05T23:00:00+0530",
+        "matchDateMs": 1241519400000,
+        "matchEndDateMs": 1241544600000,
+        "isLimitedOvers": true,
+        "battingOrder": [
+            1,
+            0
+        ],
+        "matchBroadcast": false,
+        "matchState": "C",
+        "matchStatus": {
+            "outcome": "B",
+            "text": "Rajasthan Royals won by 78 runs"
+        },
+        "description": "Match 30",
+        "matchType": "IPLT20",
+        "tournamentLabel": "IPL 2009",
+        "oversLimit": 20,
+        "groupName": ""
+    },
+    "matchId": {
+        "id": 245,
+        "name": "ipl2009-30",
+        "tournamentId": {
+            "id": 79,
+            "name": "ipl2009",
+            "provisional": false
+        }
+    },
+    "currentState": {
+        "inProgress": false,
+        "phase": "C",
+        "currentInningsIndex": 1,
+        "currentBatsmen": [
+            83,
+            150
+        ],
+        "facingBatsman": 83,
+        "nonFacingBatsman": 150,
+        "currentBowler": -1,
+        "previousBowler": 137,
+        "previousBowlerCurrentSpell": {
+            "playerId": 137,
+            "ov": "1",
+            "r": 1,
+            "w": 1,
+            "d": 5,
+            "maid": 0,
+            "e": "1.00",
+            "wd": 0,
+            "nb": 0
+        },
+        "currentPartnership": 6,
+        "partnership": {
+            "runs": 6,
+            "balls": 11,
+            "runRate": "3.27"
+        },
+        "recentOvers": [
+            {
+                "ovNo": 15,
+                "ovBalls": [
+                    "1",
+                    ".",
+                    "1",
+                    "1Lb",
+                    ".",
+                    "."
+                ]
+            },
+            {
+                "ovNo": 16,
+                "ovBalls": [
+                    "1Wd",
+                    ".",
+                    "6",
+                    "1",
+                    "W",
+                    "4",
+                    "6"
+                ]
+            },
+            {
+                "ovNo": 17,
+                "ovBalls": [
+                    "1",
+                    ".",
+                    ".",
+                    "2",
+                    "1",
+                    "2"
+                ]
+            },
+            {
+                "ovNo": 18,
+                "ovBalls": [
+                    "1",
+                    ".",
+                    "1",
+                    "1Wd",
+                    ".",
+                    "2",
+                    "1Wd",
+                    "1"
+                ]
+            },
+            {
+                "ovNo": 19,
+                "ovBalls": [
+                    "W",
+                    ".",
+                    "1",
+                    ".",
+                    ".",
+                    "."
+                ]
+            },
+            {
+                "ovNo": 20,
+                "ovBalls": [
+                    "1",
+                    ".",
+                    ".",
+                    ".",
+                    "4",
+                    "."
+                ]
+            }
+        ]
+    },
+    "innings": [
+        {
+            "inningsNumber": 1,
+            "runRate": "10.55",
+            "overProgress": "20",
+            "declared": false,
+            "scorecard": {
+                "runs": 211,
+                "wkts": 4,
+                "allOut": false,
+                "battingStats": [
+                    {
+                        "playerId": 52,
+                        "r": 68,
+                        "b": 51,
+                        "sr": "133.33",
+                        "4s": 5,
+                        "6s": 5,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 1,
+                                "over": 17,
+                                "ball": 6
+                            },
+                            "countingBp": {
+                                "innings": 1,
+                                "over": 17,
+                                "ball": 6
+                            },
+                            "text": "c Simon Katich b Piyush Chawla",
+                            "bowlerId": 76,
+                            "additionalPlayerIds": [
+                                326
+                            ],
+                            "dismissedMethod": "ct",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 219,
+                        "r": 77,
+                        "b": 44,
+                        "sr": "175.00",
+                        "4s": 12,
+                        "6s": 1,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 1,
+                                "over": 15,
+                                "ball": 5
+                            },
+                            "countingBp": {
+                                "innings": 1,
+                                "over": 15,
+                                "ball": 5
+                            },
+                            "text": "c Piyush Chawla b Ramesh Powar",
+                            "bowlerId": 83,
+                            "additionalPlayerIds": [
+                                76
+                            ],
+                            "dismissedMethod": "ct",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 96,
+                        "r": 12,
+                        "b": 7,
+                        "sr": "171.42",
+                        "4s": 1,
+                        "6s": 1,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 1,
+                                "over": 17,
+                                "ball": 2
+                            },
+                            "countingBp": {
+                                "innings": 1,
+                                "over": 17,
+                                "ball": 2
+                            },
+                            "text": "c Karan Goel b Piyush Chawla",
+                            "bowlerId": 76,
+                            "additionalPlayerIds": [
+                                322
+                            ],
+                            "dismissedMethod": "ct",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 9,
+                        "r": 33,
+                        "b": 12,
+                        "sr": "275.00",
+                        "4s": 5,
+                        "6s": 1,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 1,
+                                "over": 20,
+                                "ball": 2
+                            },
+                            "countingBp": {
+                                "innings": 1,
+                                "over": 20,
+                                "ball": 2
+                            },
+                            "text": "c Mahela Jayawardene b Irfan Pathan",
+                            "bowlerId": 49,
+                            "additionalPlayerIds": [
+                                175
+                            ],
+                            "dismissedMethod": "ct",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 377,
+                        "r": 16,
+                        "b": 9,
+                        "sr": "177.77",
+                        "4s": 2,
+                        "6s": 0
+                    },
+                    {
+                        "playerId": 133,
+                        "r": 1,
+                        "b": 1,
+                        "sr": "100.00",
+                        "4s": 0,
+                        "6s": 0
+                    }
+                ],
+                "bowlingStats": [
+                    {
+                        "playerId": 83,
+                        "ov": "3",
+                        "r": 33,
+                        "w": 1,
+                        "d": 7,
+                        "maid": 0,
+                        "e": "11.00",
+                        "wd": 0,
+                        "nb": 0
+                    },
+                    {
+                        "playerId": 49,
+                        "ov": "4",
+                        "r": 40,
+                        "w": 1,
+                        "d": 8,
+                        "maid": 0,
+                        "e": "10.00",
+                        "wd": 0,
+                        "nb": 0
+                    },
+                    {
+                        "playerId": 150,
+                        "ov": "4",
+                        "r": 44,
+                        "w": 0,
+                        "d": 7,
+                        "maid": 0,
+                        "e": "11.00",
+                        "wd": 0,
+                        "nb": 3
+                    },
+                    {
+                        "playerId": 372,
+                        "ov": "3",
+                        "r": 44,
+                        "w": 0,
+                        "d": 5,
+                        "maid": 0,
+                        "e": "14.66",
+                        "wd": 0,
+                        "nb": 1
+                    },
+                    {
+                        "playerId": 76,
+                        "ov": "4",
+                        "r": 30,
+                        "w": 2,
+                        "d": 12,
+                        "maid": 0,
+                        "e": "7.50",
+                        "wd": 0,
+                        "nb": 0
+                    },
+                    {
+                        "playerId": 113,
+                        "ov": "1",
+                        "r": 9,
+                        "w": 0,
+                        "d": 0,
+                        "maid": 0,
+                        "e": "9.00",
+                        "wd": 0,
+                        "nb": 0
+                    },
+                    {
+                        "playerId": 322,
+                        "ov": "1",
+                        "r": 11,
+                        "w": 0,
+                        "d": 1,
+                        "maid": 0,
+                        "e": "11.00",
+                        "wd": 0,
+                        "nb": 0
+                    }
+                ],
+                "fow": [
+                    {
+                        "bp": {
+                            "innings": 1,
+                            "over": 15,
+                            "ball": 5
+                        },
+                        "playerId": 219,
+                        "ret": false,
+                        "w": 1,
+                        "r": 135
+                    },
+                    {
+                        "bp": {
+                            "innings": 1,
+                            "over": 17,
+                            "ball": 2
+                        },
+                        "playerId": 96,
+                        "ret": false,
+                        "w": 2,
+                        "r": 153
+                    },
+                    {
+                        "bp": {
+                            "innings": 1,
+                            "over": 17,
+                            "ball": 6
+                        },
+                        "playerId": 52,
+                        "ret": false,
+                        "w": 3,
+                        "r": 164
+                    },
+                    {
+                        "bp": {
+                            "innings": 1,
+                            "over": 20,
+                            "ball": 2
+                        },
+                        "playerId": 9,
+                        "ret": false,
+                        "w": 4,
+                        "r": 203
+                    }
+                ],
+                "extras": {
+                    "noBallRuns": 4,
+                    "wideRuns": 0,
+                    "byeRuns": 0,
+                    "legByeRuns": 0,
+                    "penaltyRuns": 0
+                },
+                "declared": false
+            },
+            "overHistory": [
+                {
+                    "ovNo": 1,
+                    "ovBalls": [
+                        ".",
+                        "6",
+                        ".",
+                        ".",
+                        "4",
+                        "6"
+                    ]
+                },
+                {
+                    "ovNo": 2,
+                    "ovBalls": [
+                        "4",
+                        "1",
+                        ".",
+                        ".",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 3,
+                    "ovBalls": [
+                        "1Nb",
+                        "1",
+                        ".",
+                        ".",
+                        "1",
+                        ".",
+                        "2"
+                    ]
+                },
+                {
+                    "ovNo": 4,
+                    "ovBalls": [
+                        "6",
+                        ".",
+                        ".",
+                        ".",
+                        "1",
+                        "4"
+                    ]
+                },
+                {
+                    "ovNo": 5,
+                    "ovBalls": [
+                        ".",
+                        ".",
+                        "1",
+                        ".",
+                        "4",
+                        "2"
+                    ]
+                },
+                {
+                    "ovNo": 6,
+                    "ovBalls": [
+                        "1",
+                        "1",
+                        "1",
+                        "2",
+                        "4",
+                        "4"
+                    ]
+                },
+                {
+                    "ovNo": 7,
+                    "ovBalls": [
+                        ".",
+                        ".",
+                        "1",
+                        "1",
+                        ".",
+                        "4"
+                    ]
+                },
+                {
+                    "ovNo": 8,
+                    "ovBalls": [
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "1",
+                        "4"
+                    ]
+                },
+                {
+                    "ovNo": 9,
+                    "ovBalls": [
+                        "4",
+                        "1",
+                        ".",
+                        "2",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 10,
+                    "ovBalls": [
+                        "5Nb",
+                        ".",
+                        "4",
+                        "1",
+                        ".",
+                        "4",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 11,
+                    "ovBalls": [
+                        ".",
+                        "6",
+                        "1",
+                        "1",
+                        ".",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 12,
+                    "ovBalls": [
+                        "1",
+                        "4",
+                        "1",
+                        "4",
+                        ".",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 13,
+                    "ovBalls": [
+                        "4",
+                        ".",
+                        ".",
+                        ".",
+                        "1",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 14,
+                    "ovBalls": [
+                        "1",
+                        "4",
+                        "1",
+                        ".",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "ovNo": 15,
+                    "ovBalls": [
+                        "2",
+                        "1",
+                        ".",
+                        "4",
+                        "W",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 16,
+                    "ovBalls": [
+                        "6",
+                        ".",
+                        "4",
+                        "1",
+                        ".",
+                        "6"
+                    ]
+                },
+                {
+                    "ovNo": 17,
+                    "ovBalls": [
+                        ".",
+                        "W",
+                        "4",
+                        "1",
+                        "6",
+                        "W"
+                    ]
+                },
+                {
+                    "ovNo": 18,
+                    "ovBalls": [
+                        "4",
+                        "1",
+                        "4",
+                        "4",
+                        "1",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 19,
+                    "ovBalls": [
+                        "2Nb",
+                        "3Nb",
+                        "6",
+                        "2",
+                        "4",
+                        "1",
+                        "1",
+                        "4"
+                    ]
+                },
+                {
+                    "ovNo": 20,
+                    "ovBalls": [
+                        "1",
+                        "W",
+                        "2",
+                        "4",
+                        "1",
+                        "1"
+                    ]
+                }
+            ]
+        },
+        {
+            "inningsNumber": 2,
+            "runRate": "6.65",
+            "overProgress": "20",
+            "declared": false,
+            "scorecard": {
+                "runs": 133,
+                "wkts": 8,
+                "allOut": false,
+                "battingStats": [
+                    {
+                        "playerId": 42,
+                        "r": 0,
+                        "b": 1,
+                        "sr": "0.00",
+                        "4s": 0,
+                        "6s": 0,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 2,
+                                "over": 1,
+                                "ball": 1
+                            },
+                            "countingBp": {
+                                "innings": 2,
+                                "over": 1,
+                                "ball": 1
+                            },
+                            "text": "c Shane Warne b Amit Singh",
+                            "bowlerId": 137,
+                            "additionalPlayerIds": [
+                                292
+                            ],
+                            "dismissedMethod": "ct",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 27,
+                        "r": 11,
+                        "b": 15,
+                        "sr": "73.33",
+                        "4s": 2,
+                        "6s": 0,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 2,
+                                "over": 6,
+                                "ball": 6
+                            },
+                            "countingBp": {
+                                "innings": 2,
+                                "over": 6,
+                                "ball": 6
+                            },
+                            "text": "st Naman Ojha b Yusuf Pathan",
+                            "bowlerId": 96,
+                            "additionalPlayerIds": [
+                                52
+                            ],
+                            "dismissedMethod": "st",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 322,
+                        "r": 1,
+                        "b": 4,
+                        "sr": "25.00",
+                        "4s": 0,
+                        "6s": 0,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 2,
+                                "over": 1,
+                                "ball": 6
+                            },
+                            "countingBp": {
+                                "innings": 2,
+                                "over": 1,
+                                "ball": 6
+                            },
+                            "text": "c Shane Harwood b Amit Singh",
+                            "bowlerId": 137,
+                            "additionalPlayerIds": [
+                                376
+                            ],
+                            "dismissedMethod": "ct",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 326,
+                        "r": 10,
+                        "b": 13,
+                        "sr": "76.92",
+                        "4s": 2,
+                        "6s": 0,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 2,
+                                "over": 5,
+                                "ball": 6
+                            },
+                            "countingBp": {
+                                "innings": 2,
+                                "over": 5,
+                                "ball": 6
+                            },
+                            "text": "b Siddharth Trivedi",
+                            "bowlerId": 147,
+                            "dismissedMethod": "b",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 175,
+                        "r": 9,
+                        "b": 11,
+                        "sr": "81.81",
+                        "4s": 0,
+                        "6s": 1,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 2,
+                                "over": 8,
+                                "ball": 5
+                            },
+                            "countingBp": {
+                                "innings": 2,
+                                "over": 8,
+                                "ball": 4
+                            },
+                            "text": "c Siddharth Trivedi b Shane Harwood",
+                            "bowlerId": 376,
+                            "additionalPlayerIds": [
+                                147
+                            ],
+                            "dismissedMethod": "ct",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 113,
+                        "r": 48,
+                        "b": 37,
+                        "sr": "129.72",
+                        "4s": 3,
+                        "6s": 3,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 2,
+                                "over": 19,
+                                "ball": 1
+                            },
+                            "countingBp": {
+                                "innings": 2,
+                                "over": 19,
+                                "ball": 1
+                            },
+                            "text": "c Shane Harwood b Amit Singh",
+                            "bowlerId": 137,
+                            "additionalPlayerIds": [
+                                376
+                            ],
+                            "dismissedMethod": "ct",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 49,
+                        "r": 19,
+                        "b": 17,
+                        "sr": "111.76",
+                        "4s": 2,
+                        "6s": 0,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 2,
+                                "over": 14,
+                                "ball": 3
+                            },
+                            "countingBp": {
+                                "innings": 2,
+                                "over": 14,
+                                "ball": 3
+                            },
+                            "text": "lbw Shane Warne",
+                            "bowlerId": 292,
+                            "dismissedMethod": "lbw",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 76,
+                        "r": 6,
+                        "b": 7,
+                        "sr": "85.71",
+                        "4s": 1,
+                        "6s": 0,
+                        "mod": {
+                            "dismissedBp": {
+                                "innings": 2,
+                                "over": 16,
+                                "ball": 5
+                            },
+                            "countingBp": {
+                                "innings": 2,
+                                "over": 16,
+                                "ball": 4
+                            },
+                            "text": "c Ravindra Jadeja b Shane Warne",
+                            "bowlerId": 292,
+                            "additionalPlayerIds": [
+                                9
+                            ],
+                            "dismissedMethod": "ct",
+                            "isOut": true
+                        }
+                    },
+                    {
+                        "playerId": 83,
+                        "r": 6,
+                        "b": 7,
+                        "sr": "85.71",
+                        "4s": 0,
+                        "6s": 0
+                    },
+                    {
+                        "playerId": 150,
+                        "r": 4,
+                        "b": 8,
+                        "sr": "50.00",
+                        "4s": 1,
+                        "6s": 0
+                    }
+                ],
+                "bowlingStats": [
+                    {
+                        "playerId": 137,
+                        "ov": "4",
+                        "r": 9,
+                        "w": 3,
+                        "d": 18,
+                        "maid": 0,
+                        "e": "2.25",
+                        "wd": 0,
+                        "nb": 0
+                    },
+                    {
+                        "playerId": 376,
+                        "ov": "4",
+                        "r": 26,
+                        "w": 1,
+                        "d": 15,
+                        "maid": 0,
+                        "e": "6.50",
+                        "wd": 6,
+                        "nb": 0
+                    },
+                    {
+                        "playerId": 96,
+                        "ov": "4",
+                        "r": 28,
+                        "w": 1,
+                        "d": 10,
+                        "maid": 0,
+                        "e": "7.00",
+                        "wd": 0,
+                        "nb": 0
+                    },
+                    {
+                        "playerId": 147,
+                        "ov": "4",
+                        "r": 20,
+                        "w": 1,
+                        "d": 13,
+                        "maid": 0,
+                        "e": "5.00",
+                        "wd": 0,
+                        "nb": 0
+                    },
+                    {
+                        "playerId": 292,
+                        "ov": "3",
+                        "r": 38,
+                        "w": 2,
+                        "d": 6,
+                        "maid": 0,
+                        "e": "12.66",
+                        "wd": 2,
+                        "nb": 0
+                    },
+                    {
+                        "playerId": 9,
+                        "ov": "1",
+                        "r": 6,
+                        "w": 0,
+                        "d": 2,
+                        "maid": 0,
+                        "e": "6.00",
+                        "wd": 0,
+                        "nb": 0
+                    }
+                ],
+                "fow": [
+                    {
+                        "bp": {
+                            "innings": 2,
+                            "over": 1,
+                            "ball": 1
+                        },
+                        "playerId": 42,
+                        "ret": false,
+                        "w": 1,
+                        "r": 0
+                    },
+                    {
+                        "bp": {
+                            "innings": 2,
+                            "over": 1,
+                            "ball": 6
+                        },
+                        "playerId": 322,
+                        "ret": false,
+                        "w": 2,
+                        "r": 2
+                    },
+                    {
+                        "bp": {
+                            "innings": 2,
+                            "over": 5,
+                            "ball": 6
+                        },
+                        "playerId": 326,
+                        "ret": false,
+                        "w": 3,
+                        "r": 25
+                    },
+                    {
+                        "bp": {
+                            "innings": 2,
+                            "over": 6,
+                            "ball": 6
+                        },
+                        "playerId": 27,
+                        "ret": false,
+                        "w": 4,
+                        "r": 29
+                    },
+                    {
+                        "bp": {
+                            "innings": 2,
+                            "over": 8,
+                            "ball": 4
+                        },
+                        "playerId": 175,
+                        "ret": false,
+                        "w": 5,
+                        "r": 39
+                    },
+                    {
+                        "bp": {
+                            "innings": 2,
+                            "over": 14,
+                            "ball": 3
+                        },
+                        "playerId": 49,
+                        "ret": false,
+                        "w": 6,
+                        "r": 87
+                    },
+                    {
+                        "bp": {
+                            "innings": 2,
+                            "over": 16,
+                            "ball": 4
+                        },
+                        "playerId": 76,
+                        "ret": false,
+                        "w": 7,
+                        "r": 104
+                    },
+                    {
+                        "bp": {
+                            "innings": 2,
+                            "over": 19,
+                            "ball": 1
+                        },
+                        "playerId": 113,
+                        "ret": false,
+                        "w": 8,
+                        "r": 127
+                    }
+                ],
+                "extras": {
+                    "noBallRuns": 0,
+                    "wideRuns": 13,
+                    "byeRuns": 1,
+                    "legByeRuns": 5,
+                    "penaltyRuns": 0
+                },
+                "declared": false
+            },
+            "overHistory": [
+                {
+                    "ovNo": 1,
+                    "ovBalls": [
+                        "W",
+                        ".",
+                        ".",
+                        "1",
+                        "1Lb",
+                        "W"
+                    ]
+                },
+                {
+                    "ovNo": 2,
+                    "ovBalls": [
+                        ".",
+                        ".",
+                        ".",
+                        "1",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 3,
+                    "ovBalls": [
+                        "1",
+                        ".",
+                        "2Lb",
+                        ".",
+                        "4",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 4,
+                    "ovBalls": [
+                        "1Lb",
+                        "1",
+                        ".",
+                        ".",
+                        ".",
+                        "4"
+                    ]
+                },
+                {
+                    "ovNo": 5,
+                    "ovBalls": [
+                        ".",
+                        "4",
+                        "1",
+                        "4",
+                        ".",
+                        "W"
+                    ]
+                },
+                {
+                    "ovNo": 6,
+                    "ovBalls": [
+                        "1",
+                        ".",
+                        "1",
+                        "1B",
+                        "1",
+                        "W"
+                    ]
+                },
+                {
+                    "ovNo": 7,
+                    "ovBalls": [
+                        ".",
+                        ".",
+                        ".",
+                        "1",
+                        ".",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 8,
+                    "ovBalls": [
+                        "2Wd",
+                        ".",
+                        ".",
+                        "6",
+                        "W",
+                        "5Wd",
+                        ".",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 9,
+                    "ovBalls": [
+                        ".",
+                        "1",
+                        ".",
+                        "1",
+                        "1",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 10,
+                    "ovBalls": [
+                        ".",
+                        "1",
+                        "1",
+                        ".",
+                        ".",
+                        "1Wd",
+                        "1Wd",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 11,
+                    "ovBalls": [
+                        "4",
+                        "1",
+                        "4",
+                        "1",
+                        "2",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 12,
+                    "ovBalls": [
+                        ".",
+                        "6",
+                        ".",
+                        "1Wd",
+                        "1",
+                        "1",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 13,
+                    "ovBalls": [
+                        "2",
+                        "1",
+                        "4",
+                        "1",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 14,
+                    "ovBalls": [
+                        "1",
+                        "4",
+                        "W",
+                        "4",
+                        "1",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 15,
+                    "ovBalls": [
+                        "1",
+                        ".",
+                        "1",
+                        "1Lb",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 16,
+                    "ovBalls": [
+                        "1Wd",
+                        ".",
+                        "6",
+                        "1",
+                        "W",
+                        "4",
+                        "6"
+                    ]
+                },
+                {
+                    "ovNo": 17,
+                    "ovBalls": [
+                        "1",
+                        ".",
+                        ".",
+                        "2",
+                        "1",
+                        "2"
+                    ]
+                },
+                {
+                    "ovNo": 18,
+                    "ovBalls": [
+                        "1",
+                        ".",
+                        "1",
+                        "1Wd",
+                        ".",
+                        "2",
+                        "1Wd",
+                        "1"
+                    ]
+                },
+                {
+                    "ovNo": 19,
+                    "ovBalls": [
+                        "W",
+                        ".",
+                        "1",
+                        ".",
+                        ".",
+                        "."
+                    ]
+                },
+                {
+                    "ovNo": 20,
+                    "ovBalls": [
+                        "1",
+                        ".",
+                        ".",
+                        ".",
+                        "4",
+                        "."
+                    ]
+                }
+            ]
+        }
+    ]
+}

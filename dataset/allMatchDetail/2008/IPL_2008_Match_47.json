@@ -1,0 +1,88 @@
+{
+    "matchInfo": {
+        "additionalInfo": {
+            "toss.elected": "No toss",
+            "match.summary": "Match abandoned without a ball bowled"
+        },
+        "teams": [
+            {
+                "id": 725,
+                "team": {
+                    "id": 3,
+                    "fullName": "Delhi Capitals",
+                    "shortName": "Delhi",
+                    "abbreviation": "DC",
+                    "type": "m",
+                    "primaryColor": "004C93",
+                    "secondaryColor": "F83430"
+                },
+                "players": []
+            },
+            {
+                "id": 726,
+                "team": {
+                    "id": 5,
+                    "fullName": "Kolkata Knight Riders",
+                    "shortName": "Knight Riders",
+                    "abbreviation": "KKR",
+                    "type": "m",
+                    "primaryColor": "6F2C91",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": []
+            }
+        ],
+        "venue": {
+            "id": 8,
+            "fullName": "Feroz Shah Kotla Ground",
+            "shortName": "Feroz Shah Kotla Ground",
+            "city": "Delhi",
+            "country": "India"
+        },
+        "matchDate": "2008-05-22T20:00:00+0530",
+        "matchEndDate": "2008-05-22T23:00:00+0530",
+        "matchDateMs": 1211466600000,
+        "matchEndDateMs": 1211477400000,
+        "isLimitedOvers": true,
+        "battingOrder": [
+            0,
+            1
+        ],
+        "matchBroadcast": false,
+        "matchState": "C",
+        "matchStatus": {
+            "outcome": "N",
+            "text": "Match abandoned without a ball bowled"
+        },
+        "description": "Match 47",
+        "matchSummary": "Match abandoned without a ball bowled",
+        "matchType": "IPLT20",
+        "tournamentLabel": "IPL 2008",
+        "oversLimit": 20,
+        "groupName": ""
+    },
+    "matchId": {
+        "id": 321,
+        "name": "ipl2008-47",
+        "tournamentId": {
+            "id": 78,
+            "name": "ipl2008",
+            "provisional": false
+        }
+    },
+    "currentState": {
+        "inProgress": false,
+        "phase": "C",
+        "currentInningsIndex": 0,
+        "currentBatsmen": [
+            -1,
+            -1
+        ],
+        "facingBatsman": -1,
+        "nonFacingBatsman": -1,
+        "currentBowler": -1,
+        "previousBowler": -1,
+        "currentPartnership": 0
+    },
+    "innings": []
+}

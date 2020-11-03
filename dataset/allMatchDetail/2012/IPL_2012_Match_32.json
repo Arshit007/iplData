@@ -1,0 +1,90 @@
+{
+    "matchInfo": {
+        "additionalInfo": {
+            "referee.name": "Javagal Srinath",
+            "toss.elected": "No Toss",
+            "match.summary": "Match abandoned without a ball bowled",
+            "umpire.name.1": "Billy Bowden",
+            "photostream.link": "http://iplt20.com/photos/55/ipl-2012-match-32-kolkata-knight-riders-v-deccan-chargers",
+            "umpire.name.2": "Vineet Kulkarni",
+            "umpire.name.3": "Shavir Tarapore",
+            "umpire.name.4": "Premdip Chatterjee"
+        },
+        "teams": [
+            {
+                "id": 0,
+                "team": {
+                    "id": 5,
+                    "fullName": "Kolkata Knight Riders",
+                    "shortName": "Knight Riders",
+                    "abbreviation": "KKR",
+                    "type": "m",
+                    "primaryColor": "6F2C91",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": []
+            },
+            {
+                "id": 0,
+                "team": {
+                    "id": 2,
+                    "fullName": "Deccan Chargers",
+                    "shortName": "Deccan",
+                    "abbreviation": "DEC",
+                    "type": "m",
+                    "primaryColor": "65727A",
+                    "secondaryColor": "FFFFFF"
+                },
+                "players": []
+            }
+        ],
+        "venue": {
+            "id": 2,
+            "fullName": "Eden Gardens",
+            "shortName": "Eden Gardens",
+            "city": "Kolkata",
+            "country": "India"
+        },
+        "matchDate": "2012-04-24T20:00:00+0530",
+        "matchEndDate": "2012-04-24T23:00:00+0530",
+        "matchDateMs": 1335277800000,
+        "matchEndDateMs": 1335288600000,
+        "isLimitedOvers": true,
+        "matchBroadcast": false,
+        "matchState": "C",
+        "matchStatus": {
+            "outcome": "N",
+            "text": "Match abandoned without a ball bowled"
+        },
+        "description": "Match 32",
+        "matchSummary": "Match abandoned without a ball bowled",
+        "matchType": "IPLT20",
+        "tournamentLabel": "IPL 2012",
+        "oversLimit": 20,
+        "groupName": ""
+    },
+    "matchId": {
+        "id": 33,
+        "name": "ipl2012-32",
+        "tournamentId": {
+            "id": 1,
+            "name": "ipl2012",
+            "provisional": false
+        }
+    },
+    "currentState": {
+        "inProgress": false,
+        "phase": "C",
+        "currentInningsIndex": 0,
+        "currentBatsmen": [
+            -1,
+            -1
+        ],
+        "facingBatsman": -1,
+        "nonFacingBatsman": -1,
+        "currentBowler": -1,
+        "previousBowler": -1,
+        "currentPartnership": 0
+    },
+    "innings": []
+}

@@ -11,7 +11,7 @@ import requests
 from pandas import ExcelWriter
 
 from openpyxl import load_workbook
-
+import json
 import os 
 
 def getDataFromTable(soup): 
@@ -24,7 +24,7 @@ def getDataFromTable(soup):
             return df
         return pd.DataFrame()
 
-def makeExcelFromData(df=None,fileName=None,sheetName=None):
+def makeExcelFromData(df=None,fileName=None,sheetName=None): 
     path = os.path.join(os.path.dirname(os.path.realpath(__file__)),fileName)
     if os.path.exists(path):
         saveIntoExcel(df,fileName,sheetName,path)
@@ -64,7 +64,12 @@ def getBrowser(url):
     browser.implicitly_wait(20)
     return browser
 
+def write_json_data(filename,data):
+    with open(filename, 'w', encoding='utf-8') as f:
+        json.dump(data, f, ensure_ascii=False, indent=4)
 
+def get_detail_json(url):
+        return requests.get(url).json()
 
 def getHtmlfromBody(url):
         browser = getBrowser(url)
