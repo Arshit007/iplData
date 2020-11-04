@@ -9,8 +9,8 @@ class AllSeasonStats:
         self.links = self.getAllLinks()
          
 
-    def prepareData(self,fileName,sheetName,fullurl):
-        utils.makeExcelFromData((utils.getDataFromTable(self.soup)),fileName,sheetName.replace(fullurl," "))
+    def prepare_data(self,fileName,sheetName,fullurl,directory):
+        utils.make_excel_from_data((utils.getDataFromTable(self.soup)),fileName,sheetName.replace(fullurl," "),directory)
        
     def getAllLinks(self):
         return [links.get('href') for links in self.soup.findAll('a',{'class': 'side-menu-child-list__item side-menu__link'})]

@@ -10,6 +10,7 @@ import pandas as pd
 import requests
 from pandas import ExcelWriter
 
+import openpyxl
 from openpyxl import load_workbook
 import json
 import os 
@@ -24,8 +25,22 @@ def getDataFromTable(soup):
             return df
         return pd.DataFrame()
 
+def make_excel_from_data(df,fileName,sheetName,directory):
+    if not os.path.exists(os.path.join(directory,fileName)):
+        os.makedirs(os.path.dirname(directory), exist_ok=True)
+        writer = pd.ExcelWriter(os.path.join(os.path.dirname(directory),fileName), engine='xlsxwriter')
+        df.to_excel(writer,sheet_name="sheet1",index=0)
+        writer.save()
+    saveIntoExcel(df,fileName,sheetName,os.path.join(os.path.dirname(directory),fileName))
+
+def delete_sheet(sheetName,fileName):
+        workbook=openpyxl.load_workbook(fileName)
+        workbook.remove_sheet(workbook.get_sheet_by_name(sheetName))
+        workbook.save(fileName)
+
 def makeExcelFromData(df=None,fileName=None,sheetName=None): 
     path = os.path.join(os.path.dirname(os.path.realpath(__file__)),fileName)
+    print(path)
     if os.path.exists(path):
         saveIntoExcel(df,fileName,sheetName,path)
     else:
