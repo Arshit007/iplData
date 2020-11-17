@@ -51,4 +51,5 @@ class IPL:
 
 # IPL().get_all_season_stats()
 # IPL().get_all_time_stats()
-IPL().generate_video_link()
+# IPL().generate_video_link()
+# IPL().generate_scorecards()
