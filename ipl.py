@@ -8,7 +8,7 @@ class IPL:
         pass
     def get_all_season_stats(self):
         directory = "dataset/allSeasonStats/"
-        for i in range(8,21):
+        for i in range(20,21):
             items = []
             value = "{0:0=2d}".format(i)
             items = (iplAllStats.AllSeasonStats(f"/stats/20{value}/most-runs").links)            
@@ -37,19 +37,19 @@ class IPL:
             {"season":2014,"start":2424,"end":2484},{"season":2015,"start":3226,"end":3286},{"season":2016,"start":4042,"end":4102},
             {"season":2017,"start":5839,"end":5899},{"season":2018,"start":7894,"end":7954},{"season":2019,"start":11137,"end":11154},
             {"season":2019,"start":11309,"end":11348},
-            {"season":2019,"start":11412,"end":11416} ]
+            {"season":2019,"start":11412,"end":11416},{ "season":2020,"start":22236,"end":22292},{ "season":2020,"start":22359,"end":22363} ]
 
     def generate_scorecards(self):
         for data in self.get_season_range():
             iplScoreCards.ScoreCards(data['start'],data['end']).create_match_details_directory(f"dataset/allMatchDetail/{data['season']}/")
     
     def generate_video_link(self):
-        for data in self.get_season_range()[7:]:
+        for data in self.get_season_range()[4:]:
             print(data)
             iplScoreCards.ScoreCards(data['start'],data['end']).create_video_excel(f"dataset/allMatchVideoDetail/{data['season']}/",f"{data['season']}_{data['start']}")
     
 
 # IPL().get_all_season_stats()
 # IPL().get_all_time_stats()
-# IPL().generate_video_link()
+IPL().generate_video_link()
 # IPL().generate_scorecards()

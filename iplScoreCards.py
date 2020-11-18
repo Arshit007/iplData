@@ -21,14 +21,18 @@ class ScoreCards:
         match_info = get_detail_json(url)['matchInfo']
         additional_detail =  match_info['additionalInfo']
         jobj={}
+        if('description' in match_info):
+            jobj['match_number'] = match_info['description']
         if('matchStatus' in match_info):
             matchStatus = match_info['matchStatus']
             if('text' in matchStatus):
                 jobj['result']= matchStatus['text']
+
         if('toss.elected' in additional_detail):
             jobj['toss']= additional_detail['toss.elected']
         if('highlights.link' in additional_detail):
             jobj['match_link']= str(additional_detail['highlights.link'])
+
             return jobj
             
 

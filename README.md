@@ -2,7 +2,7 @@
 
 The data is taken from https://www.iplt20.com/.
 
-1. The allMatchDetail folder contain all the match details (some mentioned below) in a json file of all the seasons of ipl(2008-2019).
+1. The allMatchDetail folder contain all the match details (some mentioned below) in a json file of all the seasons of ipl(2008-2020).
     * ScoreCards of each Team
     * Toss Details
     * Man of the Match
@@ -10,7 +10,7 @@ The data is taken from https://www.iplt20.com/.
     * Detail of every over of the match
     * Match Key Points  
 
-2. The allSeasonStats folder contain  season stats(mentioned below)  in a excel file of all the seasons of ipl(2008-2019).
+2. The allSeasonStats folder contain  season stats(mentioned below)  in a excel file of all the seasons of ipl(2008-2020).
     * most-runs-over
     * most-fours        
     * most-fours-innings
@@ -41,10 +41,11 @@ The data is taken from https://www.iplt20.com/.
     * most-four-wickets
     * player-points
 
+3. The allMatchVideoDetail folder contain match highlights from 2012 onwards  in a excel file.
+
 ## Basic Requirement
 
-1. Python 3.7.3
-2. The crawler will work on Windows Operating System
+1. Python 3.7+
 
 ## Installation
 
@@ -57,5 +58,5 @@ pip install -r requirements.txt
 2. To Run the python crawler use the below command to generate the dataset.
 
 ```bash
-python ipl.py
+python3 ipl.py
 ```
